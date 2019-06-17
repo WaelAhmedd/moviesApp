@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="most_poplar_sort">Most Poplar</string>
+    <string name="top_rated_sort">Top Rated</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="empty_list_tv">No Movies Added Yet, Go Back And Add Movies To Favorite List</string>
+
+    <string name="date">Date</string>
+    <string name="overview">Overview</string>
+    <string name="save">Save</string>
+    <string name="reviews">Reviews:</string>
+    <string name="trailers">Trailers</string>
+    <string name="title">Title</string>
+</resources>
